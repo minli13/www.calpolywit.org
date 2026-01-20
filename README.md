@@ -17,9 +17,11 @@ Our goal is to create an **inclusive space** for women in tech to **connect, lea
 
 ### 💻 **Developers**  
 - 💻 **Monika**
+- 💡 **Mandy**
 
 ### 🎨 **UI/UX Designers**  
-- 🎨 **Monika**  
+- 🎨 **Monika**
+- 🌼 **Mandy**
 ---
 
 ## 📌 Contributing
