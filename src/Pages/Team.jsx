@@ -41,9 +41,10 @@ function Team(){
 
       {/* Eboard Section */}
       <div className="team-section">
-        <div className="row-7">
+        {/* <div className="row-7"> */}
+ 
           {Eboard.filter(member => !member.role.includes("Founding Co-President"))
-            .slice(0, 7) // First 7 members
+            // .slice(0, 7) // First 7 members
             .map((Emember) => (
               <div className="member" key={Emember.id}>
                 <img 
@@ -66,8 +67,8 @@ function Team(){
                 </div>
               </div>
             ))}
-        </div>
-
+        {/* </div> */}
+{/* 
         <div className="row-8">
           {Eboard.filter(member => !member.role.includes("Founding Co-President"))
             .slice(7) // Remaining members starting from the 8th one
@@ -93,8 +94,9 @@ function Team(){
                 </div>
               </div>
             ))}
-        </div>
-      </div>
+        </div> */}
+
+      </div> 
 
 
       {/* Web Dev Team Section */}
